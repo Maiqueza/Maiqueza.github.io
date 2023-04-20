@@ -1,0 +1,22 @@
+h1{
+    border-left-style:solid;
+    border-left-width: 5px;
+    border-left-color: slateblue;
+    background-color: gainsboro;
+    color:navy;
+    font-size:16px;
+    margin: 7px;
+    padding: 3px;
+
+}
+
+.textin{
+    border-style:solid;
+    border-width: 2px;
+    border-color: black;
+    background-color: rgb(199, 199, 199);
+    color:darkred;
+    font-size: 10px;
+    margin: 7px;
+    padding: 3px;
+}
